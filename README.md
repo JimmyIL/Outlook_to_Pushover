@@ -5,10 +5,10 @@ simple powershell snippet checking for unread messages in outlook and sending a 
 
 ## Instructions:
 
--download the Pushover app on ios or android
--signup and create a "user/profile"
--your userapi key is made afterwards
--your api access key and api secret key are on the app
+- download the Pushover app on ios or android
+- signup and create a "user/profile"
+- your userapi key is made afterwards
+- your api access key and api secret key are on the app
 - make sure your computer/workstation is plugged in and any auto logout/sleep feature is disabled so it can continue to run.
 - make sure there are no currently unread emails prior to use as this only goes by 'count' not actual email matches (next feature maybe)
 
